@@ -1,4 +1,5 @@
 ####
+# Names: Nemo, Mr. Nemo, etc and so on and so forth
 # Each team's file must define four tokens:
 #     team_name: a string
 #     strategy_name: a string
